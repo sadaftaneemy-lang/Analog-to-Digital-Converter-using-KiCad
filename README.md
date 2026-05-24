@@ -13,15 +13,13 @@ An Analog to Digital Converter (ADC)  is a circuit that converts a continuous an
 
 <img width="960" height="353" alt="image" src="https://github.com/user-attachments/assets/93c7d376-17a4-4972-b5b1-7f9500fc88c3" />
 
-## Applications
+## 🔰 Applications
 An ADC is used wherever real-world analog signals must be converted into digital form for processing by digital systems like microcontrollers, DSPs, processors, or computers.
 
 1. Audio Processing
+   Microphones produce analog signals.
 
 <img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/3e51e066-930b-4386-86ff-c22ebbfbc9b0" />
-
-
-   Microphones produce analog signals.
 
 ADC converts:
 - Voice
@@ -33,6 +31,24 @@ Which is used  in:
 - Voice recorders
 - Bluetooth devices
 - Digital audio systems
+
+  2. Medical equipments
+  Biomedical signals are analog.
+
+     <img width="2313" height="1596" alt="image" src="https://github.com/user-attachments/assets/fa21d14c-4173-478b-be69-f9ceaaf23a01" />
+ADC is used in:
+- ECG
+- EEG
+- Patient monitoring systems
+- Digital thermometers
+
+  ## Advantages
+
+ADCs help digital systems accurately interpret continuously varying real-world signals such as temperature, sound, pressure, and light.
+They reduce the effect of external noise because digital signals are more reliable and less sensitive to interference than analog signals.
+ADCs make it possible to store analog information in digital memory devices for long-term usage and analysis.
+They enable fast processing of signals using microprocessors, DSPs, and embedded controllers.
+ADCs improve system flexibility because digital data can be easily modified, encrypted, compressed, or transmitted over networks
 
 ## ADC Flow
 1. Analog input is applied
