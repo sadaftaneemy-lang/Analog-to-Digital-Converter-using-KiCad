@@ -32,7 +32,7 @@ Which is used  in:
 - Bluetooth devices
 - Digital audio systems
 
-  2. Medical equipments
+2. Medical equipments
   Biomedical signals are analog.
 
      <img width="2313" height="1596" alt="image" src="https://github.com/user-attachments/assets/fa21d14c-4173-478b-be69-f9ceaaf23a01" />
@@ -42,21 +42,24 @@ ADC is used in:
 - Patient monitoring systems
 - Digital thermometers
 
-  ## Advantages
+  ## 🤖 Advantages
+❉ ADCs help digital systems accurately interpret continuously varying real-world signals such as temperature, sound, pressure, and light.
 
-ADCs help digital systems accurately interpret continuously varying real-world signals such as temperature, sound, pressure, and light.
-They reduce the effect of external noise because digital signals are more reliable and less sensitive to interference than analog signals.
-ADCs make it possible to store analog information in digital memory devices for long-term usage and analysis.
-They enable fast processing of signals using microprocessors, DSPs, and embedded controllers.
-ADCs improve system flexibility because digital data can be easily modified, encrypted, compressed, or transmitted over networks
+❉ They reduce the effect of external noise because digital signals are more reliable and less sensitive to interference than analog signals.
 
-## ADC Flow
+❉ ADCs make it possible to store analog information in digital memory devices for long-term usage and analysis.
+
+❉ They enable fast processing of signals using microprocessors, DSPs, and embedded controllers.
+
+❉ ADCs improve system flexibility because digital data can be easily modified, encrypted, compressed, or transmitted over networks
+
+## 🛰️ ADC Flow
 1. Analog input is applied
 2. ADC samples the signal
 3. Quantizes it into levels
 4. Produces binary output
 
-# KiCad 
+# 🔋 KiCad 
 KiCad is an open-source EDA (Electronic Design Automation) software used for:
 1. Schematic design
 2. PCB layout
@@ -64,7 +67,7 @@ KiCad is an open-source EDA (Electronic Design Automation) software used for:
 4. Gerber generation
 5. 3D PCB visualization
 
-## 🔗🔗Installation
+## 🔗🔗 Installation
 I referred to this video during setup:
 - [https://youtu.be/JZitbgEbCHU?si=QlpFLPeTkP8un1ju]
 
