@@ -42,7 +42,7 @@ ADC is used in:
 - Patient monitoring systems
 - Digital thermometers
 
-  ## 🤖 Advantages
+## 🤖 Advantages
 ❉ ADCs help digital systems accurately interpret continuously varying real-world signals such as temperature, sound, pressure, and light.
 
 ❉ They reduce the effect of external noise because digital signals are more reliable and less sensitive to interference than analog signals.
