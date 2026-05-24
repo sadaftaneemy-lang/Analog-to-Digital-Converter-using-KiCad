@@ -11,3 +11,4 @@ Schematic → PCB Layout → Fabrication → Assembly.
 KiCad supports every step of this flow.
 
 ## What is an AC to DC Converter 
+An Analog to Digital Converter (ADC)  is a circuit that converts a continuous analog signal (like temperature, sound, voltage, sensor output) into a digital binary number that digital systems can process
