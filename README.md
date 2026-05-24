@@ -52,9 +52,8 @@ KiCad is an open-source EDA (Electronic Design Automation) software used for:
 I referred to this video during setup:
 - [https://youtu.be/JZitbgEbCHU?si=QlpFLPeTkP8un1ju]
 
-## 📐 Schematic Design
-## ⚡ Circuit Diagram
-## 🔌 PCB Connections
+# 📐 About the project
+
 
 
 
