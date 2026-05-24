@@ -17,13 +17,13 @@ An Analog to Digital Converter (ADC)  is a circuit that converts a continuous an
 
 <img width="960" height="353" alt="image" src="https://github.com/user-attachments/assets/93c7d376-17a4-4972-b5b1-7f9500fc88c3" />
 
-# ADC Flow
+## ADC Flow
 1. Analog input is applied
 2. ADC samples the signal
 3. Quantizes it into levels
 4. Produces binary output
 
-## KiCad is an open-source EDA (Electronic Design Automation) software used for:
+# KiCad is an open-source EDA (Electronic Design Automation) software used for:
 1.Schematic design
 2.PCB layout
 3.Simulation
