@@ -72,6 +72,18 @@ I referred to this video during setup:
 - [https://youtu.be/JZitbgEbCHU?si=QlpFLPeTkP8un1ju]
 
 # 📐 About the project
+This project presents the design and implementation of an AC to DC Converter PCB using KiCad. The circuit converts an alternating current (AC) input into a regulated direct current (DC) output using a bridge rectifier configuration, filtering capacitor, resistor network, and LED indication circuit.
+
+The project was designed completely in KiCad, including:
+
+   - Schematic design
+   - PCB layout
+   - Routing
+   - Footprint assignment
+   - Ground plane generation
+   - 3D visualization preparation
+
+This project demonstrates basic power electronics concepts along with practical PCB design workflow using an industry-standard open-source EDA tool.
 
 
 
