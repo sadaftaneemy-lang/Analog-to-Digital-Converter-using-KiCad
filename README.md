@@ -85,7 +85,8 @@ The project was designed completely in KiCad, including:
 
 This project demonstrates basic power electronics concepts along with practical PCB design workflow using an industry-standard open-source EDA tool.
 
-# 🧩 Components Used
+## 🧩 Components Used
+
 Component	Description
 D1–D4	1N4007 Rectifier Diodes
 C1	Filter Capacitor
@@ -94,9 +95,46 @@ D5	LED Indicator
 J1	AC Input Terminal
 J2	DC Output Terminal
 
+## 🔌 Working Principle
 
+The AC voltage is applied through the input connector. The four diodes connected in bridge rectifier configuration convert the alternating current into pulsating DC. The capacitor filters the ripple content and provides a smoother DC output voltage. The resistor and LED combination acts as an output power indicator. The final DC output is obtained at the output terminal connector.
 
+## 📂 Project Workflow
 
+➤ Schematic Design
+➤ ERC Verification
+➤ Footprint Assignment
+➤ PCB Layout Design
+➤ Routing and Ground Fill
+➤ DRC Check
+➤ Gerber File Generation
 
+## 🎯 Applications
 
+⚡ Power supply circuits
+⚡ Embedded systems
+⚡ Educational electronics projects
+⚡ PCB design practice
+⚡ Low-power DC supply applications
+
+## 🚀 Learning Outcomes
+
+Through this project, the following concepts were learned:
+
+- PCB designing using KiCad
+- Schematic capture
+- Component footprint mapping
+- PCB routing techniques
+- Bridge rectifier operation
+- Power supply circuit fundamentals
+- Design Rule Check (DRC) and ERC validation
+
+## 📸 Project Images
+
+Include:
+
+Schematic screenshot
+
+PCB layout screenshot
+3D PCB view (optional)
 
