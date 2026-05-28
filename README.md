@@ -102,19 +102,29 @@ The AC voltage is applied through the input connector. The four diodes connected
 ## 📂 Project Workflow
 
 ➤ Schematic Design
+
 ➤ ERC Verification
+
 ➤ Footprint Assignment
+
 ➤ PCB Layout Design
+
 ➤ Routing and Ground Fill
+
 ➤ DRC Check
+
 ➤ Gerber File Generation
 
 ## 🎯 Applications
 
 ⚡ Power supply circuits
+
 ⚡ Embedded systems
+
 ⚡ Educational electronics projects
+
 ⚡ PCB design practice
+
 ⚡ Low-power DC supply applications
 
 ## 🚀 Learning Outcomes
