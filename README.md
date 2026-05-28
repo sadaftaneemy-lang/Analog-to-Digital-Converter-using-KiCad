@@ -151,5 +151,7 @@ Include:
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a580a488-2be6-4b81-91d6-d915f25d3a2b" />
 
-3. 3D PCB view 
+## Acknowledgement
+
+This project was developed for learning and practice purposes to understand PCB design flow and AC to DC conversion using KiCad. External tutorials and documentation were referred to during installation and project development.
 
