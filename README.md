@@ -135,7 +135,7 @@ Include:
 
 Schematic screenshot
 
-
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9f07bc3f-6e86-4c14-a06e-76533cef2000" />
 
 PCB layout screenshot
 3D PCB view (optional)
