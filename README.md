@@ -143,11 +143,11 @@ Through this project, the following concepts were learned:
 
 Include:
 
-1. Schematic screenshot
+**1. Schematic screenshot**
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9f07bc3f-6e86-4c14-a06e-76533cef2000" />
 
-2. PCB layout screenshot
+**2. PCB layout screenshot**
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a580a488-2be6-4b81-91d6-d915f25d3a2b" />
 
