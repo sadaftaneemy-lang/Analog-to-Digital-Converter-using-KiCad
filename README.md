@@ -87,12 +87,16 @@ This project demonstrates basic power electronics concepts along with practical 
 
 ## 🧩 Components Used
 
-Component	Description
 D1–D4	1N4007 Rectifier Diodes
+
 C1	Filter Capacitor
+
 R1, R2	Resistors
+
 D5	LED Indicator
+
 J1	AC Input Terminal
+
 J2	DC Output Terminal
 
 ## 🔌 Working Principle
